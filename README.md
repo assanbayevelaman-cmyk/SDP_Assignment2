@@ -39,12 +39,17 @@ Purpose: demonstrate Factory Method (transport) and Abstract Factory (UI family)
 ## Supported Input Values
 
 Delivery Mode: ROAD/SEA
+
 UI Platform: WINDOWS/MACOS
 
 ## Sample Run
 
 Delivery mode (ROAD/SEA): ROAD
+
 UI platform (WINDOWS/MACOS): WINDOWS
+
 Rendering Windows button
+
 Rendering Windows checkbox
+
 Truck delivers laboratory equipment to Aktau warehouse
