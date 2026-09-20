@@ -4,28 +4,27 @@ Purpose: demonstrate Factory Method (transport) and Abstract Factory (UI family)
 
 ## Package Structure
 
-src/
-|_org/example/
-  |_Main.java
-  |_FactoryMethod/
-  | |_Transport.java
-  | |_Truck.java
-  | |_Ship.java
-  | |_Logistics.java
-  | |_RoadLogistics.java
-  | |_SeaLogistics.java
-  |_AbstractFactory/
-  | |_Button.java
-  | |_Checkbox.java
-  | |_WindowsButton.java
-  | |_WindowsCheckbox.java
-  | |_MacOSButton.java
-  | |_MacOSCheckbox.java
-  | |_GUIFactory.java
-  | |_WindowsFactory.java
-  | |_MacOSFactory.java
-  |_app/
-    |_DeliveryApplication.java
+- `src/org/example/`
+  - `Main.java`
+  - `FactoryMethod/`
+    - `Transport.java`
+    - `Truck.java`
+    - `Ship.java`
+    - `Logistics.java`
+    - `RoadLogistics.java`
+    - `SeaLogistics.java`
+  - `AbstractFactory/`
+    - `Button.java`
+    - `Checkbox.java`
+    - `WindowsButton.java`
+    - `WindowsCheckbox.java`
+    - `MacOSButton.java`
+    - `MacOSCheckbox.java`
+    - `GUIFactory.java`
+    - `WindowsFactory.java`
+    - `MacOSFactory.java`
+  - `app/`
+    - `DeliveryApplication.java`
 
 ## Prerequisites
 - JDK 17
